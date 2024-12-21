@@ -21,7 +21,7 @@ subject: 'Resume'
 
 ###### [[github.com/mionita1980](https://github.com/mionita1980)] . [ mionita1980@proton.me] . [ +40 728 29 28 79 ]
 
-### Over my 20 plus years of experience as a software engineer, I have strived to improve my expertise in general-purpose programming (with emphasis on: telecom, civil engineering and, more recently, AI) and integrate innovative solutions into my work.
+### Over my 20 plus years of experience as a software engineer, I have strived to improve my expertise in general-purpose programming (with emphasis on: telecom, civil engineering and more recently, AI) and integrate innovative solutions into my work.
 
 ## Skills
 
