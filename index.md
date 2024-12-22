@@ -44,18 +44,18 @@ subject: 'Resume'
 ```load/stress testing```
 
 **Programming**: Java, C, C++, Python, Erlang, Javascript, Spring, Micronaut, TestContainers, Boost, Langchain
-**Databases**: MySQL, Postgres, H2, sqlite, Cassandra, Oracle, SQL, CQL, GraphQL
+**Databases**: MySQL, Postgres, H2, sqlite, Cassandra, Oracle, SQL, CQL, GraphQL, OneNDS
 **Linux**: Alpine, RedHat, Debian
 **Documentation**: Markdown, ASCIIdoc, PlantUML, Mermaid
 **Scripting**: bash, AWK, Perl
-**DevOps**: Kubernetes, Docker, Terraform, Helm, Ansible, Crossplane, Openstack HOT, K3S, K3D, Skaffold
+**DevOps**: Kubernetes, Docker, Terraform, Helm, Ansible, Crossplane, Openstack HOT, K3S, K3D, Skaffold, Vagrant
 **Private Cloud**: Openshift, Openstack, Proxmox, VMWare
 **Public Cloud**: Azure, AWS
 **Monitoring**: Prometheus, Loki, Grafana, ELK, Micrometer, Open telemetry
 **Testing**: K6, JMeter, Postman/Newman
 **AI**: Azure Cognitive Services, Hugging Face, Mistral
-**Protocols**: REST, SOAP, HTTP, TCP, IP, ICMP, Diameter, WebRTC, Sigtran, SS7
-**Others**: Redis, Nix, ActiveMQ, dagger.io, Github actions, Azure pipelines, Gitlab CI/CD
+**Protocols**: REST, SOAP, HTTP, TCP, IP, ICMP, Diameter, WebRTC, SIP, Sigtran, SS7, JMX, LDAP, SNMP, SMTP, Syslog
+**Others**: Redis, Nix, ActiveMQ, dagger.io, Github actions, Azure pipelines, Gitlab CI/CD, XML, SAP-CC
 
 ## Experience
 
@@ -78,7 +78,7 @@ Dec 2020 - Mar 2024, Bucharest, Romania
 
 Presales (solution design, estimates), delivery (from design to implementation and automated testing), support, team-lead and teaching activities.
 
-- Created custom telecom messaging platform designed to maintain synchronization across various systems, featuring multiple retry mechanisms for enhanced reliability. Developed using microservices and deployed on Kubernetes.
+- Created custom telecom messaging platform, designed to maintain synchronization across various systems, using multiple retry mechanisms, enabling data-driven decision making to personalize a customer's experience. Developed using microservices and deployed on Kubernetes. Example: being a subscriber to service A, allows you to consume a limited amount of service B, where A and B have different providers. 
 - Tier 3 support activities for containerized production systems, spread across multiple clusters
 
 **Technologies used:** Java, Flight Recorder, ELK, Kubernetes, Helm, Skaffold, JMeter, Postman, bash, Spring, Openshift, Alpine, RedHat, CI/CD pipelines
@@ -86,6 +86,12 @@ Presales (solution design, estimates), delivery (from design to implementation a
 ### System Architect, [rsystems.com](https://rsystems.com)
 
 Apr 2012 - Dec 2020, Bucharest, Romania
+
+- Improved B2B services platform, for a telecom operator, enabling automated charging and reconciliation.
+- Created JAIN-SLEE based call-control solution, on private cloud infrastructure, for a telecom operator.
+- Developed a comprehensive MVNO solution, ensuring fast time-to-market for a classic telecom operator's prepaid plans. The solution facilitated efficient charging, communication, and customer service, enabling the marketing department to come up with ever-changing customer offers.
+
+**Technologies used:** Java, JAIN-SLEE, Rhino TAS, Erlang, SAP-CC, Openstack, Vagrant
 
 ### System Integrator, [rsystems.com](https://rsystems.com)
 
