@@ -45,7 +45,7 @@ subject: 'Resume'
 
 **Programming**: Java, C, C++, Python, Erlang, Javascript, Spring, Micronaut, TestContainers, Boost, Langchain
 **Databases**: MySQL, Postgres, H2, sqlite, Cassandra, Oracle, SQL, CQL, GraphQL, OneNDS
-**Linux**: Alpine, RedHat, Debian
+**Linux**: Alpine, RedHat, Debian, Wolfi
 **Documentation**: Markdown, ASCIIdoc, PlantUML, Mermaid
 **Scripting**: bash, AWK, Perl
 **DevOps**: Kubernetes, Docker, Terraform, Helm, Ansible, Crossplane, Openstack HOT, K3S, K3D, Skaffold, Vagrant
