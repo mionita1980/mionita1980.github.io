@@ -19,7 +19,7 @@ author:
 subject: 'Resume'
 ---
 
-![Profile picture](./profile-small.jpg "Profile picture")
+![](./profile-small.jpg "Profile picture")
 
 ###### [[github.com/mionita1980](https://github.com/mionita1980)] . [mionita1980@proton.me] . [+40 728 29 28 79] . [[PDF](https://mionita1980.github.io/resume.pdf)] . [Jul 6, 1980]
 
