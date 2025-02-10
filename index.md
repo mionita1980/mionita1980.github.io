@@ -74,42 +74,62 @@ Team-leading (code review, support for team members).
 
 **Technologies used:** multi-agent AI, Azure Cognitive Services, Azure Container Apps, Terraform, Java, Python, K6, Azure managed Redis, MySQL, bash
 
-### Solution Architect, [rsystems.com](https://rsystems.com)
+### Solution Architect, [RSystems](https://rsystems.com)
 
 Dec 2020 - Mar 2024, Bucharest, Romania
 
 Presales (solution design, estimates), delivery (from design to implementation and automated testing), support, team-lead and teaching activities.
 
-- Created custom telecom messaging platform, designed to maintain synchronization across various systems, using multiple retry mechanisms, enabling data-driven decision making to personalize a customer's experience. Developed using microservices and deployed on Kubernetes. Example: being a subscriber to service A, allows you to consume a limited amount of service B, where A and B have different providers. 
+- Created custom telecommunication messaging platform, designed to maintain synchronization across various systems, using multiple retry mechanisms, enabling data-driven decision making to personalize a customer's experience. Developed using microservices and deployed on Kubernetes. Example: being a subscriber to service A, allows you to consume a limited amount of service B, where A and B have different providers.
 - Tier 3 support activities for containerized production systems, spread across multiple clusters
 
 **Technologies used:** Java, Flight Recorder, ELK, Kubernetes, Helm, Skaffold, JMeter, Postman, bash, Spring, Openshift, Alpine, RedHat, CI/CD pipelines
 
-### System Architect, [rsystems.com](https://rsystems.com)
+### System Architect, [RSystems](https://rsystems.com)
 
 Apr 2012 - Dec 2020, Bucharest, Romania
 
-- Improved B2B services platform, for a telecom operator, enabling automated charging and reconciliation.
-- Created JAIN-SLEE based call-control solution, on private cloud infrastructure, for a telecom operator.
-- Developed a comprehensive MVNO solution, ensuring fast time-to-market for a classic telecom operator's prepaid plans. The solution facilitated efficient charging, communication, and customer service, enabling the marketing department to come up with ever-changing customer offers.
+- Improved B2B services platform, for a telecommunication operator, enabling automated charging and reconciliation.
+- Created JAIN-SLEE based call-control solution, on private cloud infrastructure, for a telecommunication operator.
+- Developed a comprehensive MVNO solution, ensuring fast time-to-market for a classic telecommunication operator's prepaid plans. The solution facilitated efficient charging, communication, and customer service, enabling the marketing department to come up with ever-changing customer offers.
 
-**Technologies used:** Java, JAIN-SLEE, Rhino TAS, Erlang, SAP-CC, Openstack, Vagrant
+**Technologies used:** Java, JAIN-SLEE, Rhino TAS, Erlang, SAP-CC, Openstack, Vagrant, Linux
 
-### System Integrator, [rsystems.com](https://rsystems.com)
+### System Integrator, [RSystems](https://rsystems.com)
 
 Aug 2011 - Apr 2012, Irving, Texas, US
 
-### System Architect, [rsystems.com](https://rsystems.com)
+- Integrated a AAA solution in a tier 1 US telecommunication operator's network.
+
+**Technologies used:** OneNDS, OneAAA, LDAP, Diameter, Solaris
+
+### System Architect, [Computaris](https://computaris.com)
 
 Dec 2008 - Aug 2011, Bucharest, Romania
 
-### Senior Software Engineer, [rsystems.com](https://rsystems.com)
+- Created an integration platform between a telecommunication operator and third-party service providers based on a AAA (Authentication, Authorization, Accounting) platform, to create additional revenue streams.
+- Created additional components for that platform, interfacing with LDAP and GreenPlum databases.
+- Created a performance test suite, based on Apache JMeter.
+
+**Technologies used:** Java, JMeter, OneNDS, OneAAA, LDAP, GreenPlum, Linux
+
+### Senior Software Engineer, [Computaris](https://computaris.com)
 
 Mar 2007 - Dec 2008, Bucharest, Romania
 
-### Software Engineer, [rsystems.com](https://rsystems.com)
+- Customer base migration for a telecommunication operator, to a new provisioning platform, without service disruption.
+- Provisioning platform development for multi-national operator.
+
+**Technologies used:** Java, Teligent P90
+
+### Software Engineer, [Computaris](https://computaris.com)
 
 Mar 2006 - Mar 2007, Bucharest, Romania
+
+- Developed an XML based platform for delivery of new telecommunication services, with very small time-to-market, including charging, provisioning and call-control capabilities.
+- Ericsson Diameter charging SDK adaptation, for use in the XML based platform.
+
+**Technologies used:** C++, Java, Diameter, XML, Linux
 
 ### Research Engineer, [University of the Bundeswehr](https://www.unibw.de)
 
