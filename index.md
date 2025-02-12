@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Mihai-Gabriel Ionita
+title: Mihai Ionita
 description-meta: 'Mihai-Gabriel Ionita, Solution Architect, Resume'
 keywords:
   - 'pre-sales'
