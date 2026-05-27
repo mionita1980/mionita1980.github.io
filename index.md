@@ -39,7 +39,7 @@ subject: 'Resume'
 ```team-leading```
 ```programming```
 ```teaching```
-```microlith```
+```modulith```
 ```microservices```
 ```llm```
 ```ai```
