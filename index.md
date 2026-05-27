@@ -8,10 +8,16 @@ description-meta: 'Mihai-Gabriel Ionita, Solution Architect, Resume'
 keywords:
   - 'pre-sales'
   - 'architect'
+  - 'solution'
+  - 'telecom'
+  - 'telecommunications'
+  - 'team-lead'
   - 'linux'
   - 'delivery'
   - 'programming'
   - 'ai'
+  - 'azure'
+  - 'aws'
   - 'llm'
   - 'devops'
 author:
@@ -21,7 +27,7 @@ subject: 'Resume'
 
 ![](./profile-small.jpg "Profile picture")
 
-###### [[github.com/mionita1980](https://github.com/mionita1980)] . [mionita1980@proton.me] . [+40 728 29 28 79] . [[PDF](https://mionita1980.github.io/resume.pdf)] . [Jul 6, 1980]
+###### [mionita1980@proton.me] . [+40 728 29 28 79] . [[PDF](https://mionita1980.github.io/resume.pdf)] . [Jul 6, 1980] . [[github](https://github.com/mionita1980)] . [[codeberg](https://codeberg.org/mionita1980)]
 
 ### Over 23 years as a software engineer and solution architect, I've built deep expertise across specialized domains - telecom and AI - and general-purpose programming, integrating innovative solutions into my work.
 
@@ -91,9 +97,9 @@ Presales (solution design, estimates), delivery (from design to implementation a
 
 Apr 2012 - Dec 2020, Bucharest, Romania
 
-- Improved B2B services platform, for a telecommunication operator, enabling automated charging and reconciliation.
-- Designed JAIN-SLEE based call-control solution, on private cloud infrastructure, for a telecommunication operator.
-- Developed a comprehensive MVNO solution, ensuring fast time-to-market for a classic telecommunication operator's prepaid plans. The solution facilitated efficient charging, communication, and customer service, enabling the marketing department to come up with ever-changing customer offers.
+- Led a team to improve a telecom operator’s B2B services platform, designing automated charging and reconciliation systems to enhance operational efficiency.
+- Designed JAIN-SLEE based call-control solution, on private cloud infrastructure, for a telecommunication operator, guiding the team through deployment and ensuring scalability for real-time telecom services.
+- Led the development of a comprehensive MVNO solution, ensuring fast time-to-market for a classic telecommunication operator's prepaid plans. The solution facilitated efficient charging, communication, and customer service, enabling the marketing department to come up with ever-changing customer offers.
 
 **Technologies used:** Java, JAIN-SLEE, Rhino TAS, Erlang, SAP-CC, Openstack, Vagrant, Linux
 
@@ -109,9 +115,9 @@ Aug 2011 - Apr 2012, Irving, Texas, US
 
 Dec 2008 - Aug 2011, Bucharest, Romania
 
-- Created an integration platform between a telecommunication operator and third-party service providers based on a AAA (Authentication, Authorization, Accounting) platform, to create additional revenue streams.
+- Designed an integration platform between a telecommunication operator and third-party service providers based on a AAA (Authentication, Authorization, Accounting) platform, to create additional revenue streams.
 - Created additional components for that platform, interfacing with LDAP and GreenPlum databases.
-- Created a performance test suite, based on Apache JMeter.
+- Helped design a performance test suite, based on Apache JMeter and led the effort for integrating it.
 
 **Technologies used:** Java, JMeter, OneNDS, OneAAA, LDAP, GreenPlum, Linux
 
