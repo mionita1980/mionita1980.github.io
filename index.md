@@ -30,7 +30,7 @@ subject: 'Resume'
 
 ###### [mionita1980@proton.me] . [+40 728 29 28 79] . [[PDF](https://mionita1980.github.io/resume.pdf)] . [Jul 6, 1980] . [[github](https://github.com/mionita1980)] . [[codeberg](https://codeberg.org/mionita1980)]
 
-### Over 23 years as a software engineer and solution architect, I've built deep expertise across specialized domains - telecommunication and AI - and general-purpose programming, integrating innovative solutions into my work.
+### Over 23 years as a software engineer and solution architect, I've built deep expertise across specialized domains - telecommunication platforms, cloud-native architectures and AI - as well as general-purpose programming, integrating innovative solutions into my work.
 
 ## Skills
 
