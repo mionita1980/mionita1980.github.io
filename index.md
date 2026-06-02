@@ -52,21 +52,21 @@ subject: 'Resume'
 ```application servers```
 ```load/stress testing```
 
-**Programming**: Java, C, C++, Python, Erlang, Javascript, Spring, Micronaut, GraalVM, TestContainers, Boost, Langchain
-**Databases**: MySQL, Postgres, H2, sqlite, Cassandra, Oracle, SQL, CQL, GraphQL, OneNDS, Redis
-**Linux**: Alpine, RedHat, Debian, Wolfi
-**Documentation**: Markdown, ASCIIdoc, PlantUML, Mermaid
-**Scripting**: bash, AWK, Perl
-**DevOps**: Pipelines, Kubernetes, Docker, Terraform, Helm, Ansible, Crossplane, Openstack HOT, K3S, K3D, Skaffold, Vagrant
-**Pipelines**: dagger.io, Github actions, Azure pipelines, Gitlab CI/CD
-**Private Cloud**: Openshift, Openstack, Proxmox, VMWare
-**Public Cloud**: Azure, AWS, Google, Digital Ocean
-**Monitoring**: Prometheus, Loki, Grafana, ELK, Micrometer, Open telemetry
-**Testing**: K6, JMeter, Bruno, Postman/Newman
-**Security**: Sonar, SpotBugs, Trivy, OWASP, Grype
-**AI**: Agentic AI workflows, AI Foundry, Azure Cognitive Services, MCP, Hugging Face, Mistral
-**Protocols**: REST, SOAP, HTTP, TCP, IP, ICMP, Diameter, WebRTC, SIP, Sigtran, SS7, JMX, LDAP, SNMP, SMTP, Syslog
-**Others**: Chainguard, Nix, ActiveMQ, XML, SAP-CC, JAIN-SLEE, Rhino TAS
+**Programming**: Java, C, C++, Python, Erlang, Javascript, Spring, Micronaut, GraalVM, TestContainers, Boost, Langchain 
+**Databases**: MySQL, Postgres, H2, sqlite, Cassandra, Oracle, SQL, CQL, GraphQL, OneNDS, Redis 
+**Linux**: Alpine, RedHat, Debian, Wolfi 
+**Documentation**: Markdown, ASCIIdoc, PlantUML, Mermaid 
+**Scripting**: bash, AWK, Perl 
+**DevOps**: Pipelines, Kubernetes, Docker, Terraform, Helm, Ansible, Crossplane, Openstack HOT, K3S, K3D, Skaffold, Vagrant 
+**Pipelines**: dagger.io, Github actions, Azure pipelines, Gitlab CI/CD 
+**Private Cloud**: Openshift, Openstack, Proxmox, VMWare 
+**Public Cloud**: Azure, AWS, Google, Digital Ocean 
+**Monitoring**: Prometheus, Loki, Grafana, ELK, Micrometer, Open telemetry 
+**Testing**: K6, JMeter, Bruno, Postman/Newman 
+**Security**: Sonar, SpotBugs, Trivy, OWASP, Grype 
+**AI**: Agentic AI workflows, AI Foundry, Azure Cognitive Services, MCP, Hugging Face, Mistral 
+**Protocols**: REST, SOAP, HTTP, TCP, IP, ICMP, Diameter, WebRTC, SIP, Sigtran, SS7, JMX, LDAP, SNMP, SMTP, Syslog 
+**Others**: Chainguard, Nix, ActiveMQ, XML, SAP-CC, JAIN-SLEE, Rhino TAS 
 
 ## Experience
 
