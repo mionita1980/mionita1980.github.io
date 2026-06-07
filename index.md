@@ -25,6 +25,7 @@ author:
 - Mihai-Gabriel Ionita
 subject: 'Resume'
 ---
+# Mihai-Gabriel Ionita
 
 ![](./profile-small.jpg "Profile picture")
 
