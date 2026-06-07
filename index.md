@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-description-meta: 'Mihai-Gabriel Ionita, Solution Architect, Resume'
+description-meta: 'Mihai Ionita, Solution Architect, Resume'
 keywords:
   - 'pre-sales'
   - 'architect'
@@ -21,11 +21,9 @@ keywords:
   - 'llm'
   - 'devops'
 author:
-- Mihai-Gabriel Ionita
+- Mihai Ionita
 subject: 'Resume'
 ---
-# Mihai-Gabriel Ionita
-
 ![](./profile-small.jpg "Profile picture")
 
 ###### [mionita1980@proton.me] . [+40 728 29 28 79] . [[PDF](https://mionita1980.github.io/resume.pdf)] . [Jul 6, 1980] . [[github](https://github.com/mionita1980)] . [[codeberg](https://codeberg.org/mionita1980)]
